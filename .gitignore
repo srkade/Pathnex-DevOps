@@ -1,0 +1,19 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Keys and credentials (never commit sensitive files)
+*.pem
+*.key
+*.ppk
+*.env
+.env.*
+
+# Logs
+*.log
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
